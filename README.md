@@ -4,7 +4,7 @@ A simple theme for [Ghost](http://github.com/tryghost/ghost/). Support mobile br
 
 Design by [个篱](https://www.zhihu.com/people/geli)
 
-**DEMO** [http://yunun.uno/](http://yunun.uno/)
+**DEMO** [https://dong.ninja/](https://dong.ninja/)
 
 PC browsers
 
