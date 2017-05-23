@@ -1,12 +1,12 @@
 .main-nav {
   list-style: none;
-  padding: 20px 18px 20px 40px;
+  padding: 30px 18px 30px 40px;
   text-align: right;
   border-bottom: 1px solid $border-color-base;
   // @include serif-font();
   li {
     margin: 0;
-    padding: 9px 0;
+    padding: 11px 0;
     font-size: 18px;
     line-height: 1;
     color: $nav-color-base;
