@@ -3,7 +3,7 @@
   border-bottom: 1px solid $border-color-base;
   .post-title {
     padding: 15px 0;
-    font-size: 22px;
+    font-size: 26px;
     line-height: 1.5em;
     font-weight: bold;
     a {
@@ -50,7 +50,7 @@
 
 .read-next {
   padding: 60px 20px 100px;
-  font-family: Georgia;
+  font-family: Georgia, serif;
   color: $text-color-gray;
   font-size: 0;
   display: table;
