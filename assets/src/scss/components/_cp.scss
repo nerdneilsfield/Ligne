@@ -1,6 +1,7 @@
 .info {
   border-bottom: 1px solid $border-color-base;
   @extend .clearfix;
+  @include serif-font();
   a {
     float: left;
     padding: 20px 0;

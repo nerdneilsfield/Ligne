@@ -56,6 +56,12 @@ $size-sm: 320px;
     sans-serif;               // System Fallback
 }
 
+@mixin serif-font() {
+  font-family:
+    'Libian SC',
+    serif;
+}
+
 @mixin selection($color: #868686) {
   ::selection {
     background: $color;
