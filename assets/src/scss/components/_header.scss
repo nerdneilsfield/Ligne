@@ -1,11 +1,11 @@
 .main-header h1 {
-  font-size: 55px;
+  font-size: 75px;
   height: 100px;
   line-height: 100px;
   padding-left: 40px;
   border-bottom: 1px solid $border-color-base;
   @include serif-font();
   a {
-    color: $text-color-base;
+    color: $text-color-black;
   }
 }
